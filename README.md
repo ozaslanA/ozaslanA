@@ -1,4 +1,4 @@
- [![MasterHead](https://c8.alamy.com/comp/RR6BCG/java-programming-concept-virtual-machine-on-server-room-background-RR6BCG.jpg)
+ [![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Abdurrahim</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
